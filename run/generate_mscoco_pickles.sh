@@ -1,0 +1,1 @@
+python3 -m src.data.raw.create_mscoco_pickles $1 $2
